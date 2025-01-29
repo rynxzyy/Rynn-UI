@@ -41,6 +41,11 @@
       "name": "Search Tools",
       "items": [
         {
+          "name": "Bing",
+          "desc": "Web search",
+          "path": "/search/bing?q="
+        },
+        {
           "name": "YouTube",
           "desc": "Video search",
           "path": "/search/youtube?q="

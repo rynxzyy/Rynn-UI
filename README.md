@@ -75,7 +75,8 @@ You can easily customize the UI by editing the `settings.json` file. Below is a 
 
 Organize APIs into categories for better navigation:
 - **Category Name (e.g., "AI (Artificial Intelligence)")**
-  - `apis`: Define individual APIs within the category:
+  - `items`: Define individual APIs within the category.
+    - `name`: The name of the API (e.g., "LuminAI").
     - `desc`: A short description of the API (e.g., "Talk with luminai").
     - `path`: The endpoint path for the API (e.g., /ai/luminai?text=).
 
@@ -125,6 +126,11 @@ Here’s an example of how your settings.json file might look:
     {
       "name": "Search Tools",
       "items": [
+        {
+          "name": "Bing",
+          "desc": "Web search",
+          "path": "/search/bing?q="
+        },
         {
           "name": "YouTube",
           "desc": "Video search",
