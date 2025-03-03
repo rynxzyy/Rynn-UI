@@ -1,4 +1,4 @@
-# Rynn UI
+# Sall-api
 
 ![Layout](https://files.catbox.moe/tot5d8.png)
 
@@ -49,7 +49,7 @@ You can easily customize the UI by editing the `settings.json` file. Below is a 
 
 ### General Settings
 
-- `name`: Sets the name of your API (e.g., "Rynn Api's").
+- `name`: Sets the name of your API (e.g., "Sall Api's").
 - `version`: Specifies the version of your API interface (e.g., "Rynn UI").
 - `description`: A brief description of your API documentation.
 
@@ -109,7 +109,7 @@ Here’s an example of how your settings.json file might look:
     },
     {
       "name": "Contact Me",
-      "url": "https://wa.me/6285173370004"
+      "url": "https://wa.me/6283822554743"
     }
   ],
   "categories": [
