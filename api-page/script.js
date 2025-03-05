@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             window.addEventListener('resize', setImageSize);
         }
         
-        setContent('page', 'textContent', settings.name || "Rynn UI");
+        setContent('page', 'textContent', settings.name || "FxyyCxx");
         setContent('header', 'textContent', settings.name || "Rynn UI");
         setContent('name', 'textContent', settings.name || "Rynn UI");
         setContent('version', 'textContent', settings.version || "v1.0 Beta");
