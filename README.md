@@ -10,7 +10,7 @@ Rynn UI is a simple and easy-to-use API documentation interface built with Expre
 - Categorized APIs for easy navigation
 - Includes real-time settings such as name, version, description, and creator
 - Supports image display in the UI for branding
-- Links to external resources such as source code and contact info
+- Links to external resources such as source code and contact infoo
 
 ## Live Demo
 
