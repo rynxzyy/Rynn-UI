@@ -1,6 +1,6 @@
 {
-  "name": "Rynn Api's",
-  "version": "Rynn UI",
+  "name": "FxyyCxx Api's",
+  "version": "FxyyCxx",
   "description": "Simple and Easy-to-Use API Documentation",
   "header": {
     "status": "Online!",
@@ -14,16 +14,16 @@
     }
   },
   "apiSettings": {
-    "creator": "Rynn"
+    "creator": "FxyyCxx"
   },
   "links": [
     {
       "name": "Source Code",
-      "url": "https://github.com/rynxzyy/Rynn-UI"
+      "url": "https://github.com/FxyyCx/Web-api"
     },
     {
       "name": "Contact Me",
-      "url": "https://wa.me/6285173370004"
+      "url": "https://t.me/FxyyCxx"
     }
   ],
   "categories": [

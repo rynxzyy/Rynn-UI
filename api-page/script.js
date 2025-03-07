@@ -36,9 +36,9 @@ document.addEventListener('DOMContentLoaded', async () => {
             window.addEventListener('resize', setImageSize);
         }
         
-        setContent('page', 'textContent', settings.name || "Rynn UI");
-        setContent('header', 'textContent', settings.name || "Rynn UI");
-        setContent('name', 'textContent', settings.name || "Rynn UI");
+        setContent('page', 'textContent', settings.name || "FxyyCxx");
+        setContent('header', 'textContent', settings.name || "FxyyCxx");
+        setContent('name', 'textContent', settings.name || "FxyyCxx");
         setContent('version', 'textContent', settings.version || "v1.0 Beta");
         setContent('versionHeader', 'textContent', settings.header.status || "Online!");
         setContent('description', 'textContent', settings.description || "Simple API's");
